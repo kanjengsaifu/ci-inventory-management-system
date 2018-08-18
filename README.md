@@ -1,3 +1,1 @@
-Inventory Management System with CodeIgniter
-<br>
-&copy; Copyright - Ahmad Fauzi 2014-now!
+<b>Old code - please don't use this!</b> It's totally fuckin' embrassing, you know!
